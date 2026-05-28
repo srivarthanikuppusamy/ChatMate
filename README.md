@@ -2,7 +2,7 @@
 
 ChatMate is an AI-powered smartphone recommendation chatbot built using Dialogflow.
 
-## Features
+## Features 
 
 * Smartphone recommendations
 * Gaming, camera, battery, and performance suggestions
